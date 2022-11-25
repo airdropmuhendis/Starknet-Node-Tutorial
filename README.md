@@ -1,4 +1,4 @@
-<h1 align="center">Starknet Full Node Kurulumu
+<h1 align="center">Starknet Node Kurulumu
 
 ## StarkNet, StarkWare tarafından geliştirilen bir Ethereum ikincil katman çözümüdür.
 
