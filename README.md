@@ -2,7 +2,7 @@
 
 ## StarkNet, StarkWare tarafından geliştirilen bir Ethereum ikincil katman çözümüdür.
 
-## Video [Linki](https://youtu.be/jf5dvWblYek) 
+## Video [Linki](https://youtu.be/0LkT9_--gL4) 
 ## Ödüller hakkında henüz bir bilgi yok yada node kuranlara ödül verilecek tarzında bir bilgi yok sadece ihtimalleri değerlendiriyoruz, ancak token lansmanının çok uzak olmadığını gösteren birkaç detay var. StarkNet'in ERC20 token sözleşmesi Ethereum üzerinde konuşlandırıldı. [Link](https://twitter.com/StarkWareLtd/status/1592897313273712640?s=20&t=judEK08Ud7__KUFNLiXThA)
 
 
