@@ -45,13 +45,29 @@ Bir ethereum noduna ihtiyacımız olacak bunun için eğer varsa kendi Ethereuum
    ```
 
  # Docker ile kurulum yapacağız. Docker kuralım.
+ 
+ ## Sunucunuz üzerinde daha önceden kurulu docker uygulaması var ise kaldırılması için aşağıdaki komutu çalıştırın.
 
   ```
-sudo apt install docker.io
+sudo apt-get remove docker docker-engine docker.io containerd runc
  ```
- ```
-  sudo systemctl enable --now docker
+ ## Güncelleyin
   ```
+sudo apt update && sudo apt upgrade -y
+ ```
+ ## Kurulum
+  ```
+sudo apt install apt-transport-https ca-certificates curl software-properties-common -y
+ ```
+ ```
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add
+ ```
+  ```
+sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable"
+ ```
+ ```
+sudo apt-get install docker-ce docker-ce-cli containerd.io
+ ```
   ## Pathfinder reposunu clonlayalım şuanda son versiyon v0.4.0 da eğer ilerleyen zamanlarda versiyon hatası alırsanız. [buradan](https://github.com/eqlabs/pathfinder/tags) son versiyonu kontrol edip güncelleyebilirsiniz.
   
    ```
