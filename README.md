@@ -99,7 +99,7 @@ docker run \
  ```
 screen -r node
  ```
- ## Node kurulduktan sonra [Discord](https://discord.gg/qypnmzkhbc) sunucularına gidip node hakkında bilgi verelim önce tweet atıyoruz daha sonra tweet bağlantısını ve ıp adresimizi ekleyip Full-node succes odasında paylaşıyoruz.
+ ## Node kurulduktan sonra [Discord](https://discord.com/invite/QypNMzkHbc) sunucularına gidip node hakkında bilgi verelim önce tweet atıyoruz daha sonra tweet bağlantısını ve ıp adresimizi ekleyip Full-node succes odasında paylaşıyoruz.
 
 Son olarak [Starknet topluluğuna](https://community.starknet.io/) üye olalım ve sosyal medya hesaplarımızı bağlayalım ayrıca toplulukta aktif olmaya çalışalım rozet mantığı var. Her türlü ihtimalli değerlendirmek adına node kurduk ödül garantisi yoktur. 
  
